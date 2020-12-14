@@ -1,5 +1,4 @@
-**** NOTE: This was a small COVID tracker I made for Proof of Care while working there. Ultimately there wasn't enough views on it to justify the Heroku server but nevertheless it is here. The app tracks covid-19 in the BC region and pulls data from the bccdc website. The application was made to be embedded in a webage so the styling is a little plain.
-
+**** NOTE: This was a small COVID tracker I made for Proof of Care while working there. Ultimately there wasn't enough views on it to justify the Heroku server but nevertheless it is here. The app tracks covid-19 in the BC region and pulls data from the bccdc website. The application was made to be embedded in a webage.
 
 
 ** legacy notes
